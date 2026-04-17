@@ -1,6 +1,15 @@
 # 💫 About Me:
-I'm current working as a Data Analyst
 
+I work at the intersection of Data Analysis and Engineering, structuring pipelines and dashboards that translate raw numbers into operational clarity.
+
+Raw Data → Processing & Modeling → Visualization → Strategic Decision
+
+Core Achievements & Experience
+✔ Processed approximately 5 GB of experimental data using PySpark, enabling predictions for complex systems.
+✔ Developed mathematical models and simulations that resulted in unprecedented analytical forecasting.
+✔ Optimized BI data workflows, significantly reducing response times for technical and scientific analyses.
+✔ Structured Power BI and Tableau dashboards, providing clear visualization of critical KPIs.
+✔ Implemented scientific computing methods to handle high-complexity experimental variables with analytical rigor.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dealmeidadiego/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santanafisico@gmail.com) 
