@@ -5,10 +5,15 @@ I work at the intersection of Data Analysis and Engineering, structuring pipelin
 Raw Data → Processing & Modeling → Visualization → Strategic Decision
 
 Core Achievements & Experience
+
 ✔ Processed approximately 5 GB of experimental data using PySpark, enabling predictions for complex systems.
+
 ✔ Developed mathematical models and simulations that resulted in unprecedented analytical forecasting.
+
 ✔ Optimized BI data workflows, significantly reducing response times for technical and scientific analyses.
+
 ✔ Structured Power BI and Tableau dashboards, providing clear visualization of critical KPIs.
+
 ✔ Implemented scientific computing methods to handle high-complexity experimental variables with analytical rigor.
 
 ## 🌐 Socials:
